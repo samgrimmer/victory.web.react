@@ -6,4 +6,3 @@ Victory Christian Center react poc using typescript create app with ant design r
 
 ```yarn start```
 
-http://victory-kiosk.surge.sh/
